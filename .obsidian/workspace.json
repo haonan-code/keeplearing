@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6dca10fe31285f",
+        "id": "e5a9c69ffc03f744",
         "type": "tabs",
         "children": [
           {
-            "id": "79dee163b7ec2c28",
+            "id": "1d0c480053ba6d9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "keeplearing/README.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "git-pull-request",
+              "title": "Diff View (README)"
             }
           }
         ]
@@ -173,9 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79dee163b7ec2c28",
+  "active": "1d0c480053ba6d9c",
   "lastOpenFiles": [
     "keeplearing/README.md",
+    "keeplearing/Project/IotForensic/-.md",
     "keeplearing/designMode/prototype/prototype.py",
     "keeplearing/designMode/singleton/singleton.py",
     "keeplearing/designMode/builder/builder.py",
