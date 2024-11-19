@@ -11,10 +11,13 @@
             "id": "2c2cd7359b462b99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -167,13 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d708f0061d294d6",
+  "active": "2c2cd7359b462b99",
   "lastOpenFiles": [
+    "keeplearing/Project/IotForensic/-.md",
+    "keeplearing/README.md",
     "conflict-files-obsidian-git.md",
     "新建 文本文档.txt",
     "新建文件夹",
-    "keeplearing/README.md",
-    "keeplearing/Project/IotForensic/-.md",
     "keeplearing/designMode/prototype/prototype.py",
     "keeplearing/designMode/singleton/singleton.py",
     "keeplearing/designMode/builder/builder.py",
