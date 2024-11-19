@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a9c69ffc03f744",
+        "id": "86a26f97c0864ebc",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0c480053ba6d9c",
+            "id": "dec8cc56b227b1ad",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "keeplearing/README.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (README)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
