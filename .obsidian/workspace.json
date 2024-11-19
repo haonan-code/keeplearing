@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8143b04200003438",
+        "id": "dd30fc66e6541551",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2cd7359b462b99",
+            "id": "38455599dd00b993",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "keeplearing/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -137,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "keeplearing/README.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -170,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c2cd7359b462b99",
+  "active": "38455599dd00b993",
   "lastOpenFiles": [
-    "keeplearing/Project/IotForensic/-.md",
+    "keeplearing/Develop/Web通信/websocket.md",
     "keeplearing/README.md",
+    "keeplearing/Project/IotForensic/-.md",
     "conflict-files-obsidian-git.md",
     "新建 文本文档.txt",
     "新建文件夹",
