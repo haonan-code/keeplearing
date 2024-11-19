@@ -172,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79cc59bb4f17f61e",
+  "active": "6d708f0061d294d6",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "新建文件夹",
     "keeplearing/README.md",
     "keeplearing/Project/IotForensic/-.md",
     "keeplearing/designMode/prototype/prototype.py",
@@ -185,7 +187,6 @@
     "keeplearing/designMode/factory/factory.py",
     "keeplearing/designMode/singleton",
     "keeplearing/designMode/prototype",
-    "keeplearing/designMode/builder",
     "Develop/Web通信/websocket.md",
     "Project/IotForensic/-.md",
     "test.md",
