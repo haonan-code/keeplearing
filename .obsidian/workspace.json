@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86a26f97c0864ebc",
+        "id": "8143b04200003438",
         "type": "tabs",
         "children": [
           {
-            "id": "dec8cc56b227b1ad",
+            "id": "2c2cd7359b462b99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "keeplearing/README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -171,6 +169,7 @@
   },
   "active": "6d708f0061d294d6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "新建 文本文档.txt",
     "新建文件夹",
     "keeplearing/README.md",
@@ -183,7 +182,6 @@
     "keeplearing/designMode/mvc/ctrl.py",
     "keeplearing/designMode/factory/factory.py",
     "keeplearing/designMode/singleton",
-    "keeplearing/designMode/prototype",
     "Develop/Web通信/websocket.md",
     "Project/IotForensic/-.md",
     "test.md",
