@@ -96,3 +96,6 @@ subprocess.Popen(command, shell=False)
 
 - 避免命令注入风险（如用户提供的参数）。
 - 运行简单的命令或程序，不需要 shell 特性。
+
+## 参考
+https://www.cnblogs.com/ywsun/p/13847879.html#!comments
