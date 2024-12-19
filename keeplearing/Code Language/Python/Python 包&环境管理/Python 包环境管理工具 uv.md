@@ -80,6 +80,7 @@ uv venv python=3.12
 ```
 
 项目结构如下：
+
 ![](resource/p2.png)
 
 - uv.lock 是锁定的依赖，类似于 `pip freeze`
